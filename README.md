@@ -16,8 +16,8 @@
 
 | Team | Members | Notebook |
 |------|---------|----------|
-| 1    | Luca, Nikita, João, Luis | [Notebook 1](https://colab.research.google.com/drive/1cMRVGYtUSEoYNWWw_0SOLJqEjGKxZ_vO?usp=sharing) |
-| 2    | David, Adrien, Jack | [Notebook 2](https://drive.google.com/file/d/1Djpwxu8qUANjw-ysP_36zcLAhk3tRFll/view?usp=share_link) |
+| 1    | Luca, Nikita, João, Luis | [Notebook 0](https://colab.research.google.com/gist/joamats/08338a27a51c02179f3d5e8b8f15cecb/workshop_0.ipynb), [Notebook 1](https://colab.research.google.com/gist/joamats/feeb299ebed3e6c73e123e49b95e9aac/workshop_1.ipynb) |
+| 2    | David, Adrien, Jack | [Notebook 2](https://colab.research.google.com/gist/joamats/b4ac29dac0fcb6a26cdb1a4361cbd13f/workshop_2.ipynb) |
 | 3    | Skyler, Maria, Tristan | [Notebook 3](https://colab.research.google.com/drive/1W2xke2uf-Kmt1YAndQFuyJMD6GSkKSCe?usp=sharing) |
 
 
